@@ -1,8 +1,8 @@
 # 关于
 
-本仓库说明文档：<a href="https://feater.top/?p=15">说明文档地址</a>
+本仓库说明文档：<a href="https://feater.top/exam/15/">说明文档地址</a>
 
-索引资料：<a href="https://feater.top/?p=27">全部系列资料索引地址</a>
+索引资料：<a href="https://feater.top/exam/27/">全部系列资料索引地址</a>
 
 如果你需要其他资料可以看看这个列表里面有没有：<a href="https://feater.top/downloads/list.txt">资料列表</a>
 
